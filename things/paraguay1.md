@@ -1,5 +1,5 @@
 ---
-tags: #paraguay
+tags: [paraguay]
 ---
 
 Car crash nation like bumper cars in Paraguay.
